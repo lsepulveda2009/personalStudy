@@ -1,11 +1,19 @@
 [
     {
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
-      "nome": "Smartphone XYZ",
-      "descricao": "Celular de última geração",
-      "valorSemDesconto": 1200.00,
-      "valorComDesconto": 999.99,
-      "tipoEntrega": "Frete GRÁTIS"
+      "img": "https://github.com/lsepulveda2009/personalStudy/blob/4ddacd2053cfd556f834f5b7fe637bf5aaec4501/ESP%20LTD%20SH-207.png",
+      "nome": "ESP LTD SH-207",
+      "descricao": "Projetada para músicos que procuram uma solução mais acessível para a guitarra 
+                                da série Signature LTD de Brian "Head" Welch, o inovador de 7 cordas e membro 
+                                fundador dos ícones do nu-metal Korn, a SH-207 é uma excelente escolha. 
+                                É uma guitarra de 7 cordas baseada no modelo SH-7 de Welch, que oferece construção
+                                parafusada, corpo de mogno com tampo de bordo flamejado, e um braço de bordo 
+                                de três peças confortável e rápido com formato U extra fino e escala de jatobá 
+                                torrado. O som do SH-207 é alimentado por um conjunto de captadores ESP Designed 
+                                LH-307 de alta saída, e inclui uma ponte fixa LTD com passagem de cordas pelo 
+                                corpo.",
+      "valorSemDesconto": 5999.00,
+      "valorComDesconto": 4999.00,
+      "tipoEntrega": "Frete Grátis"
     },
     {
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
